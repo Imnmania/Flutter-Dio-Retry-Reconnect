@@ -1,6 +1,9 @@
-# flutter_dio_interceptor
+### This is a simple flutter application that tries to reconnect the failed network requests whenever the network connection is stable.  
 
-A new Flutter project.
+## Packages Used:
+* dio: ^3.0.9
+* connectivity: ^0.4.8+2
+
 
 ## Getting Started
 
